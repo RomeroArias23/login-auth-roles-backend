@@ -8,7 +8,7 @@ The backend is deployed on **Render (free tier)** and serves as the authenticati
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This backend is responsible for:
 
@@ -22,7 +22,7 @@ It is designed to work with a frontend that handles routing, guards, and UI-leve
 
 ---
 
-## 🚀 Features
+## Features
 
 ✔ Secure login endpoint  
 ✔ JWT token generation and validation  
@@ -34,7 +34,7 @@ It is designed to work with a frontend that handles routing, guards, and UI-leve
 
 ---
 
-## 🔐 Authentication Flow
+## Authentication Flow
 
 1. Client sends credentials to the backend  
 2. Backend validates user credentials  
